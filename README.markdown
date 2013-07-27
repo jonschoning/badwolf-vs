@@ -11,9 +11,9 @@ Screenshots
 
 ![Screenshot](http://i.imgur.com/wa5DIJ2.png)
 
-### HTML (Razor & Handlebars Templates)
+### HTML (Razor Templates)
 
-![Screenshot](http://i.imgur.com/GvQAmes.png)
+![Screenshot](http://i.imgur.com/drlSAin.png)
 
 ### CSS (LESS)
 
@@ -25,5 +25,5 @@ Screenshots
 
 ### XML
 
-![Screenshot](http://i.imgur.com/2W9gAE9.png)
+![Screenshot](http://i.imgur.com/rrwnEmN.png)
 
