@@ -13,7 +13,7 @@ Screenshots
 
 ### F\# 
 
-![Screenshot](http://i.imgur.com/BTqRxUf.png)
+![Screenshot](http://i.imgur.com/vVkX4Ln.png)
 
 ### HTML (Razor Templates)
 
