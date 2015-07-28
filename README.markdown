@@ -1,7 +1,7 @@
 Bad Wolf
 ========
 
-A dark color scheme for Visual Studio 2012, based on the Bad Wolf color scheme for Vim
+A dark color scheme for Visual Studio, based on the Bad Wolf color scheme for Vim
 created by [Steve Losh](http://stevelosh.com/).
 
 Screenshots
