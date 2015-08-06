@@ -13,6 +13,7 @@ Screenshots
 
 ### F\# 
 
+(Requires Visual F# Power Tools Extension for F# syntax coloring rules)
 ![Screenshot](http://i.imgur.com/vVkX4Ln.png)
 
 ### HTML (Razor Templates)
